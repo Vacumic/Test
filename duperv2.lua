@@ -5,8 +5,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/he
 
 wait(4)
 
-
-wait(0.5)local ba=Instance.new("ScreenGui")
+local ba=Instance.new("ScreenGui")
 
 
 local ca=Instance.new("TextLabel")local da=Instance.new("Frame")
